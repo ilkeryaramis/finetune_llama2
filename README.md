@@ -1,4 +1,4 @@
-# finetune_llama2
+# Finetune Llama_v2
 
 As a data scientist and language model enthusiast, I am constantly exploring cutting-edge NLP technologies, and fine-tuning LLM opens up endless possibilities in natural language understanding and generation. In this repository, you will find a started code for Llama v2 model.
 
